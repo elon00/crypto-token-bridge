@@ -1,9 +1,11 @@
-﻿# ARCHITECTURE BOOK: Cbdcbridge (ticker)
+> Prototype architecture and design goals. Token, RPC, cryptographic, bridge and deployment capabilities require implementation-specific evidence.
+
+# ARCHITECTURE BOOK: Crypto Token Bridge (ticker)
 ## Autonomous Production-Grade Protocol Architecture
 
 `
 +---------------------------------------------------------------------------------------+
-|                                    Cbdcbridge SYSTEM                                    |
+|                                    Crypto Token Bridge SYSTEM                                    |
 |                        Operational Topology & Invariant Lattice                       |
 +---------------------------------------------------------------------------------------+
                                            |
@@ -25,4 +27,4 @@
 `
 
 ### 1. Executive Summary
-Cbdcbridge (\ticker) is an autonomous, decentralized, post-quantum protocol engineered for production-grade operational efficiency and cryptographic trust.
+Crypto Token Bridge (\ticker) is an autonomous, decentralized, post-quantum protocol engineered for production-grade operational efficiency and cryptographic trust.
